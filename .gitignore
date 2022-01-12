@@ -1,0 +1,17 @@
+# bundler files
+node_modules/
+dist/
+.parcel_cache/
+.parcel-cache/
+.cache
+.vscode
+
+# macOS Files
+.DS_Store
+
+# Windwos Files
+*.ini
+
+# logs
+logs/
+*.log
