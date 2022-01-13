@@ -1,0 +1,32 @@
+{
+  "name": "codercamp2021-spaproject",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "prod": "parcel build src/index.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radekwojpl2/CoderCamp2021-SPAProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radekwojpl2/CoderCamp2021-SPAProject/issues"
+  },
+  "homepage": "https://github.com/radekwojpl2/CoderCamp2021-SPAProject#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.16.7",
+    "eslint": "^8.6.0",
+    "eslint-plugin-react": "^7.28.0",
+    "parcel": "^2.1.1",
+    "prettier": "^2.5.1"
+  }
+}
